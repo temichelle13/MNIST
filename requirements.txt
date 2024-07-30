@@ -17,6 +17,6 @@ pytz==2021.1
 requests==2.25.1
 scipy==1.2.3
 six==1.15.0
-tqdm==4.60.0
+tqdm==4.66.3
 typing==3.7.4.3
 urllib3==1.26.4
