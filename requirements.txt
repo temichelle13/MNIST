@@ -3,7 +3,7 @@ chardet==4.0.0
 decorator==4.3.2
 future==0.18.2
 gradient-sdk==0.0.4
-hyperopt==0.1.2
+hyperopt==0.2.7
 idna==2.10
 networkx==2.2
 numpy==1.16.6
