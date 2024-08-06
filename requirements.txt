@@ -1,6 +1,6 @@
 certifi==2020.12.5
 chardet==4.0.0
-decorator==4.3.2
+decorator==4.4.2
 future==0.18.2
 gradient-sdk==0.0.4
 hyperopt==0.1.2
