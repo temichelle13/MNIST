@@ -5,7 +5,7 @@ future==0.18.2
 gradient-sdk==0.0.4
 hyperopt==0.1.2
 idna==2.10
-networkx==2.2
+networkx==3.4.2
 numpy==1.16.6
 pandas==0.24.2
 Pillow==6.2.2
